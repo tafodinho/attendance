@@ -1,0 +1,85 @@
+body{
+	background: #F2F2F2 ;
+}
+.row1{
+	margin-top: 70px;
+	height: 70px;
+	width: auto;
+	background: #3576a1;
+	background: linear-gradient(to bottom, #356aa0 0%,#3576a1 34%);
+	box-shadow: 0px 3px 3px grey;
+}
+.row1 img{
+	margin-left: 50px;
+	margin-top: -10px;
+	height: 90px;
+}
+.row2{
+	margin-top: 50px;
+	height: auto;
+	width: auto;
+	background: transparent;
+}
+
+.col1{
+	background: #356aa0   ;
+	background: linear-gradient(to bottom, #356aa0 0%,#3576a1 34%);
+	margin-left: 50px;
+	width: 250px;
+	box-shadow: 0px 3px 3px grey;
+}
+.col1 ul{
+	color: black;
+	margin-top: 15px;
+	border-radius: 0px 0px 0px 0px;
+}
+.col1 li{
+	color: black;
+	font-weight: bold;
+	padding: -10px;
+	margin-left: -25px;
+	margin-top: 5px;
+	border-style: solid;
+	border-color: #356aa0;
+	background: white;
+}
+.col1 li:hover{
+	border-color: black;
+	background: black;
+	color: white;
+}
+.col1 a{
+	font-family: sans-serif;
+	font: inherit;
+	font-size: 15px;
+	text-decoration: none;
+}
+.col2{
+	overflow: auto;
+	border-color: white;
+	background: #356aa0   ;
+	background: linear-gradient(to bottom, #356aa0 0%,#3576a1 34%);
+	margin-left: 100px;
+	width: 800px;
+	height: 360px;
+	border-radius: 5px;
+	box-shadow: 0px 2px 4px grey;
+}
+.col2 .form-group{
+	color: white;
+	width: 260px;
+	margin: 70px 50px 50px 240px;
+}
+.row3{
+	position:;
+	margin-top: 50px;
+	height: 100px;
+	width: auto;
+	background: #356aa0;
+	background: linear-gradient(to bottom, #356aa0 0%,#3576a1 34%);
+
+}
+.next{
+	float: right;
+	background: green;
+}

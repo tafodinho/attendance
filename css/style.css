@@ -1,0 +1,178 @@
+body{
+	background: #F2F2F2 ;
+	background: linear-gradient(135deg, #fcfff4 35%,#dfe5d7 40%,#b3bead 100%);
+}
+.row1{
+	margin-top: 70px;
+	height: 70px;
+	width: auto;
+	background: #3576a1;
+	background: linear-gradient(to bottom, #1e5799 0%, #7db9e8 -20%, #1e5799 80%, #1e5799 50%);
+	box-shadow: 0px 3px 3px grey;
+}
+.row1 img{
+	margin-left: 50px;
+	margin-top: -27px;
+	height: 120px;
+	width: 100;
+}
+.row2{
+	margin-top: 50px;
+	height: auto;
+	width: auto;
+	background: transparent;
+}
+
+.col1{
+	background: #356aa0   ;
+	background: linear-gradient(to bottom, #1e5799 0%,#207cca 46%,#207cca 100%);
+	margin-left: 50px;
+	width: 250px;
+	box-shadow: 0px 3px 3px grey;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+.col1 ul{
+	color: black;
+	margin-top: 15px;
+	border-radius: 0px 0px 0px 0px;
+}
+.col1 li{
+	color: black;
+	font-weight: bold;
+	padding: -10px;
+	margin-left: -25px;
+	margin-top: 5px;
+	border-style: solid;
+	border-color: #356aa0;
+	background: white;
+	background: linear-gradient(45deg, #fcfff4 0%,#dfe5d7 13%,#fcfff4 34%,#fcfff4 35%,#fcfff4 50%,#fcfff4 57%,#b3bead 100%);
+}
+.col1 li:hover{
+	border-color: black;
+	background: linear-gradient(to bottom, #aebcbf 0%,#6e7774 16%,#0a0e0a 40%,#0a0809 100%);
+	color: white;
+}
+.active{
+	border-color: black;
+	background: black;
+	color: white;
+}
+.col1 li:active{
+	border-color: black;
+	background: black;
+	color: white;
+}
+.col1 a{
+	font-family: sans-serif;
+	font: inherit;
+	font-size: 15px;
+	text-decoration: none;
+}
+.col2{
+	overflow: auto;
+	border-color: white;
+	background: #356aa0   ;
+	background: linear-gradient(to bottom, #1e5799 0%,#207cca 46%,#207cca 100%);
+	padding-bottom: 30px;
+	padding-top: 10px;
+	border-radius: 5px;
+	box-shadow: 0px 2px 4px grey;
+	max-height: 600px;
+	color: white;
+}
+.col2 .index-form{
+	color: white;
+	width: 260px;
+	margin: 70px 50px 50px 240px;
+}
+.next{
+	float: right;
+}
+.next, .prev{
+	margin-top: 10px;
+}
+.name{
+	font-weight: bold;
+	color: white;
+	margin-left:40%;
+	font-size: 24px;
+	font-family: "Calibri", sans-serif;
+
+}
+.name:hover{
+	color: black;
+}
+.p{
+	color: white;
+	font-weight: bold;
+}
+.admin-form1{
+	margin-top: 30px;
+	color: white;
+	width: 400px;
+	margin-left: 180px;
+}
+.incident1, .remark{
+	float: right;
+}
+.btn{
+	font-family: sans-serif;
+	font-weight: bold;
+	background: #F2F2F2;
+	background: linear-gradient(45deg, #fcfff4 0%,#dfe5d7 13%,#fcfff4 34%,#fcfff4 35%,#fcfff4 50%,#fcfff4 57%,#b3bead 100%);
+}
+
+.row3{
+	position: ;
+	margin-top: 175px;
+	height: 100px;
+	width: auto;
+	background: #356aa0;
+	background: linear-gradient(to bottom, #1e5799 0%,#207cca 46%,#207cca 100%);
+}
+.table-edit{
+	color: white;
+}
+.btn:hover{
+	color: white;
+	background: linear-gradient(to bottom, #aebcbf 0%,#6e7774 16%,#0a0e0a 40%,#0a0809 100%);
+}
+legend{
+	color: white;
+}
+.logout{
+	float: right;
+	margin-top: 15px;
+	margin-right: 9px;
+}
+.error{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: black;
+	background: red ;
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	position: fixed;
+	top: 0px;
+	z-index: 20;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	
+}
+hr{
+	color: white;
+}
+
+.h{
+	font-weight: bold;
+}
+.head{
+	border-width: 2px;
+}
