@@ -1,5 +1,5 @@
 <fieldset>
-	<legend>Login as Patrol officer</legend>
+	<legend>Patrol officer</legend>
 	<div class="col-sm-3"></div>
 	<form role="form" action="php/login_script2.php" method="POST" class="form-horizontal">
 		<div class="form-group col-sm-6">

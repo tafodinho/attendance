@@ -1,5 +1,5 @@
 <fieldset>
-	<legend>Login as Regional manager</legend>
+	<legend>Regional manager</legend>
 	<div class="col-sm-3"></div>
 	<form role="form" action="php/login_script1.php" method="POST" class="form-horizontal">
 		<div class="form-group col-sm-6">

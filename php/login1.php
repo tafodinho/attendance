@@ -1,5 +1,5 @@
 <fieldset>
-	<legend>Login as General manager</legend>
+	<legend>General manager</legend>
 	<div class="col-sm-3"></div>
 	<form role="form" action="" method="" class="form-horizontal">
 		<div class="form-group col-sm-6">

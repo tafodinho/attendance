@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Attendances</title>
+	<title>Attendance</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-md-8 col2">
 				<fieldset>
-					<legend>Login as Regional manager</legend>
+					<legend>Regional manager</legend>
 					<div class="col-sm-3"></div>
 					<form role="form" action="php/login_script1.php" method="POST" class="form-horizontal">
 						<div class="form-group col-sm-6">
